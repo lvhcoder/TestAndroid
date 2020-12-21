@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BaseKotlin</string>
+    <string name="back_again_to_exit">Press back again to exit.</string>
+    <string name="home1">Home 1</string>
+    <string name="home2">Home 2</string>
+    <string name="home3">Home 3</string>
+    <string name="email_empty">Email can not be blank</string>
+    <string name="email_invalid">Email address is not valid</string>
+    <string name="password_empty">Password can not be blank</string>
+    <string name="password_more_than">Password must be more than 8 characters</string>
+    <string name="name">Hi, My name is</string>
+    <string name="email">My email address is</string>
+    <string name="birthday">My birthday is</string>
+    <string name="address">My Address is</string>
+    <string name="phone">My phone number is</string>
+    <string name="password">My password is</string>
+</resources>
